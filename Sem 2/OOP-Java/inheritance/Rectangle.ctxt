@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Rectangle\ class\ using\ as\ super\ class.\r\n
+comment1.params=length\ width
+comment1.target=void\ setRectangle(double,\ double)
+comment1.text=\r\n\ Sets\ length\ and\ width\ of\ rectangle\r\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\r\n\ Returns\ area\ of\ rectangle\r\n
+numComments=3
