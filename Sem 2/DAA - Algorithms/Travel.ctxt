@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Travel
+comment1.params=curr_path
+comment1.target=void\ copyToFinal(int[])
+comment2.params=adj\ i
+comment2.target=int\ firstMin(int[][],\ int)
+comment3.params=adj\ i
+comment3.target=int\ secondMin(int[][],\ int)
+comment4.params=adj\ curr_bound\ curr_weight\ level\ curr_path
+comment4.target=void\ TSPRec(int[][],\ int,\ int,\ int,\ int[])
+comment4.text=\ function\ that\ takes\ as\ arguments\:\ \r\n\ \ \ \ \ curr_bound\ ->\ lower\ bound\ of\ the\ root\ node\ \r\n\ \ \ \ \ curr_weight->\ stores\ the\ weight\ of\ the\ path\ so\ far\ \r\n\ \ \ \ \ level->\ current\ level\ while\ moving\ in\ the\ search\ \r\n\ \ \ \ \ space\ tree\ \r\n\ \ \ \ \ curr_path[]\ ->\ where\ the\ solution\ is\ being\ stored\ which\ \r\nwould\ later\ be\ copied\ to\ final_path[]
+comment5.params=adj
+comment5.target=void\ TSP(int[][])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
